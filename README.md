@@ -50,7 +50,7 @@ VideoBGRemover — графическое приложение на основе
 
 ### Быстрая установка (рекомендуется)
 
-1. Скачайте архив `VideoBGRemover_Portable.zip` из [релизов](https://github.com/vlad-ir/VideoBGRemover-Portable/releases)
+1. Скачайте архив `VideoBGRemover.zip` из [релизов](https://github.com/vlad-ir/VideoBGRemover-Portable/releases)
 2. Распакуйте в любую папку в корне диска. Название папки латиницей, без пробелов (например `D:\VideoBGRemover`)
 3. Запустите `VideoBGRemover.bat`
 4. Выберите пункт **4. Install / Re-install Transparent Background**
